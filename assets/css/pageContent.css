@@ -1,0 +1,20 @@
+.page-text{
+    font-family: 'Dancing Script', cursive;
+    font-size: 55px;
+    color: rgb(0, 0, 0)
+}
+.page-text:hover{
+    color: rgb(255, 255, 151);
+}
+.back-color{
+    background-color: rgb(243, 240, 240);
+}
+
+/* Why Choose Our Restaurant */
+.color-back{
+    background-color: rgb(0, 0, 0)
+}
+.gap-back{
+    padding-top: 10vh;
+    padding-bottom: 20vh;
+}

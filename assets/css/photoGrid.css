@@ -1,0 +1,5 @@
+.photo-grid:hover{
+    border: solid 10px black;
+    filter: blur(4px);
+    -webkit-filter: blur(4px);
+}

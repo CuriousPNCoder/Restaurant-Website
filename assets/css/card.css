@@ -1,0 +1,11 @@
+.card-img:hover{
+    border: 5px solid #020202;
+    filter: blur(4px);
+    -webkit-filter: blur(4px);
+}
+.card-title:hover{
+    color: rgb(252, 249, 106);
+}
+.card-text:hover{
+    color: rgb(248, 245, 82);
+}
